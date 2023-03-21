@@ -1,18 +1,21 @@
-function humanIsLiving(character) {
-    return character.status === 'Alive' && character.species === 'Human';
+function getAllHumansAlive(characters) {
+    return characters.filter(function (character) {
+        return character.status === "Alive" && character.species === "Human";
+    });
 }
-function getLivingHumans(characters) {
-    return characters.results.filter(humanIsLiving);
+var charactersAlive = getAllHumansAlive(response.results);
+console.log(charactersAlive);
+function getAllCharactersNames(characters) {
+    return characters.map(function (character) {
+        return character.name;
+    });
 }
-var livingHumans = getLivingHumans(characters);
-console.log(livingHumans);
-// Lambda Function erstellt von ChatGPT kp obs klappt
-//
-// function getLivingHumans(characters) {
-//     return characters.results.filter(character => {
-//         return character.status === 'Alive' && character.species === 'Human';
-//     });
-// }
-//
-// const livingHumans = getLivingHumans(characters);
-// console.log(livingHumans);
+var allCharacters = getAllCharactersNames(response.results);
+console.log(allCharacters);
+function getAllCharactersAsObject(characters) {
+    return characters.map(function (character) {
+        return { name: character.name, origin: character.origin.name };
+    });
+}
+var characters = getAllCharactersAsObject(response.results);
+console.log(characters);
