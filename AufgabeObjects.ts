@@ -15,4 +15,5 @@ function checkStudent(studentId: string, studentname: string, student: { name: s
 }
 
 
-console.log(checkStudent("1","Tom2",student))
+console.log(checkStudent("21","Tom2",student))
+console.log(students)

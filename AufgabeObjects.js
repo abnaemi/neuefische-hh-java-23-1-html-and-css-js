@@ -11,4 +11,4 @@ function checkStudent(studentId, studentname, student) {
     }
 }
 console.log(checkStudent("21", "Tom2", student));
-console.log(students)
+console.log(students);
