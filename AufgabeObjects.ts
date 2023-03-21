@@ -1,6 +1,7 @@
 type student = {id: string, name:string}
 const student = {name: "Florian", id: "21"}
-const students: { name: string, id: string } [] = [student, {name: "Tom", id: "23"},]
+const studentTwo = {name: "Tom", id: "23"}
+const students: student[] = [student, studentTwo,]
 console.log(students)
 
 

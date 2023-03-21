@@ -1,10 +1,11 @@
 var student = { name: "Florian", id: "21" };
-var students = [student, { name: "Tom", id: "23" },];
+var studentTwo = { name: "Tom", id: "23" };
+var students = [student, studentTwo,];
 console.log(students);
-function checkStudent(studentId, studentname, student) {
+function checkStudent(studentId, studentName, student) {
     if (student.id == studentId) {
-        //student.name=studentname
-        students.push({ name: studentname, id: studentId });
+        //student.name=studentName
+        students.push({ name: studentName, id: studentId });
     }
     else {
         console.log("No matching ID");
