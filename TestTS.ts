@@ -18,9 +18,9 @@ function multiply(a : number,b : number) : number{
 }
 console.log(multiply(55,3))
 
-const student: {name:string, age:number} = {name: "Florian", age: 21}
+/*const student: {name:string, age:number} = {name: "Florian", age: 21}
 student.name = "matthias"
-console.log(student)
+console.log(student)*/
 
 const product: {id: string, name: string}= {id:"123", name:"Apple"}
 
