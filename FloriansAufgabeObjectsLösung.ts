@@ -22,7 +22,7 @@ console.log(studentss)
 console.log(student1)
 
 
-function checkStudent(student: Student): Student {
+function checkStudents(student: Student): Student {
     if (student.id == "1") {
         return {id: "1", name: "Fritz"}
     }
@@ -30,7 +30,7 @@ function checkStudent(student: Student): Student {
 }
 
 function replace(students: Student[], id: string, name: string): Student[] {
-    return students.map(checkStudent)
+    return students.map(checkStudents)
 }
 
 
