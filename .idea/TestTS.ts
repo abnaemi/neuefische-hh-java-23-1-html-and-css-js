@@ -26,5 +26,17 @@ const product: {id: string, name: string}= {id:"123", name:"Apple"}
 
 const products: {id: string, name: string} [] =[product,{id:"334", name:"Banana"}, ]
 
-console.log(product)
-console.log(product[0])
+console.log(products)
+console.log(products[0])
+
+products.push({id:"787", name: "Gurke"})
+console.log(products)
+
+function checkProduct (product: {id:string, name:string}) {
+    return product.name.length > 5
+
+}
+
+const newProducts: {id: string, name: string}[]= products.filter(checkProduct)
+
+console.log(newProducts)
