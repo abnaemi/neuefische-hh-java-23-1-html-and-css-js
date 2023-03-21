@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5746f1-41d1-4509-84be-275bc4d43745" name="Changes" comment="Added Flag" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NGtYjZiyTuDgDIt0o82h3h20y9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5746f1-41d1-4509-84be-275bc4d43745" name="Changes" comment="" />
+      <created>1679302295374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679302295374</updated>
+      <workItem from="1679302296637" duration="10979000" />
+    </task>
+    <task id="LOCAL-00001" summary="1 Commit">
+      <created>1679304515776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679304515776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1 Commit">
+      <created>1679309068820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679309068820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Put the impressum on the right side.">
+      <created>1679309828507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679309828507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a Contact E-Mail">
+      <created>1679310750823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679310750823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed background color">
+      <created>1679310878712</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679310878712</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixing texts">
+      <created>1679311640209</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679311640209</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Flag">
+      <created>1679312760984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679312760984</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Flag">
+      <created>1679317768644</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679317768644</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 Commit" />
+    <MESSAGE value="Put the impressum on the right side." />
+    <MESSAGE value="Added a Contact E-Mail" />
+    <MESSAGE value="Changed background color" />
+    <MESSAGE value="Fixing texts" />
+    <MESSAGE value="Added Flag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Flag" />
+  </component>
+</project>
