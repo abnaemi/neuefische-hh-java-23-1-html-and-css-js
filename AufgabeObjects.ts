@@ -15,3 +15,4 @@ function checkStudent(studentId: string, studentname: string, student: { name: s
 }
 
 
+console.log(checkStudent("1","Tom2",student))
