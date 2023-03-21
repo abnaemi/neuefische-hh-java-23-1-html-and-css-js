@@ -4,14 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d5746f1-41d1-4509-84be-275bc4d43745" name="Changes" comment="Added Flag" />
+    <list default="true" id="4d5746f1-41d1-4509-84be-275bc4d43745" name="Changes" comment="Fixed some bugs due to the new code">
+      <change afterPath="$PROJECT_DIR$/rmapi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmmethods.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3378998e-7727-4b86-83e4-ea3e777213b4" />
+        <option name="url" value="https://github.com/abnaemi/neuefische-hh-java-23-1-html-and-css-js" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,13 +51,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abnae\OneDrive\Dokumente\Bootcamp Neue Fische\Codes\neuefische-hh-java-23-1-html-and-css" />
+      <recent name="C:\Users\abnae\OneDrive\Dokumente\Bootcamp Neue Fische\Codes\neuefische-hh-java-23-1-html-and-css\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679302295374</updated>
       <workItem from="1679302296637" duration="10979000" />
+      <workItem from="1679386438025" duration="24175000" />
     </task>
     <task id="LOCAL-00001" summary="1 Commit">
       <created>1679304515776</created>
@@ -99,11 +134,171 @@
       <option name="project" value="LOCAL" />
       <updated>1679317768644</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added some javascript to">
+      <created>1679391654458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679391654458</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added some javascript to">
+      <created>1679392039949</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679392039949</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added some javascript to">
+      <created>1679392250930</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679392250930</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added some javascript to">
+      <created>1679392424847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679392424847</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added some javascript to">
+      <created>1679395821415</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679395821415</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init">
+      <created>1679397290986</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679397290986</updated>
+    </task>
+    <task id="LOCAL-00015" summary="init">
+      <created>1679397303819</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679397303819</updated>
+    </task>
+    <task id="LOCAL-00016" summary="javascript typescirpt">
+      <created>1679397331681</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679397331681</updated>
+    </task>
+    <task id="LOCAL-00017" summary="javascript typescirpt">
+      <created>1679397833928</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679397833929</updated>
+    </task>
+    <task id="LOCAL-00018" summary="javascript typescirpt">
+      <created>1679398272705</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679398272705</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added Aufgabe JS Objects">
+      <created>1679403571273</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679403571273</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Aufgabe gelöst">
+      <created>1679403929335</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679403929335</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Bug fixing">
+      <created>1679404027013</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679404027013</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Bug fixing">
+      <created>1679404074230</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679404074230</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Bug fixing">
+      <created>1679406874143</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679406874143</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added type">
+      <created>1679408114848</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679408114848</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added type">
+      <created>1679408256551</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679408256551</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added Flos Lösung">
+      <created>1679408454452</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679408454452</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Fixed some bugs due to the new code">
+      <created>1679408711216</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679408711216</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Fixed some bugs due to the new code">
+      <created>1679409768968</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679409768968</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TestTS.js" />
+        <option value="$PROJECT_DIR$/AufgabeObjects.js" />
+        <option value="$PROJECT_DIR$/FloriansAufgabeObjectsLösung.js" />
+        <option value="$PROJECT_DIR$/rmmethods.js" />
+        <option value="$PROJECT_DIR$/rmapi.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Commit" />
@@ -112,6 +307,15 @@
     <MESSAGE value="Changed background color" />
     <MESSAGE value="Fixing texts" />
     <MESSAGE value="Added Flag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Flag" />
+    <MESSAGE value="Added some javascript to" />
+    <MESSAGE value="init" />
+    <MESSAGE value="javascript typescirpt" />
+    <MESSAGE value="Added Aufgabe JS Objects" />
+    <MESSAGE value="Aufgabe gelöst" />
+    <MESSAGE value="Bug fixing" />
+    <MESSAGE value="Added type" />
+    <MESSAGE value="Added Flos Lösung" />
+    <MESSAGE value="Fixed some bugs due to the new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some bugs due to the new code" />
   </component>
 </project>
