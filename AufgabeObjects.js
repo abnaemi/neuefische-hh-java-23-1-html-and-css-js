@@ -10,5 +10,5 @@ function checkStudent(studentId, studentname, student) {
         console.log("No matching ID");
     }
 }
-console.log(checkStudent("21", "Florian", student));
+console.log(checkStudent("21", "Tom2", student));
 console.log(students);
